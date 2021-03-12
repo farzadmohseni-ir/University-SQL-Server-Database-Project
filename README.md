@@ -2,6 +2,11 @@
 
 
 This is a small project about the relationship between different units of the university and the student in a database .
+ - View
+ - Procedure
+ - Function
+ - Trigger
+ - ...
 
 This database is built with SQL Server .
 
