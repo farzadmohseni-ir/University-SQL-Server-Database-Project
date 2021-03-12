@@ -10,6 +10,6 @@ This is a small project about the relationship between different units of the un
 
 This database is built with SQL Server .
 
-Completed row and column fields in the database are in Persian .
+Completed row and column fields in the database are in Persian language .
 
 Word and video files to describe the project and help you run the project .
