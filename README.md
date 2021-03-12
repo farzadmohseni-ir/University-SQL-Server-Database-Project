@@ -1,1 +1,1 @@
-# University-SQL-Server-Database-Project
+# University-SQL-Server-Database
